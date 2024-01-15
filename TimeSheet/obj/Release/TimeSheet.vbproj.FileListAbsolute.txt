@@ -1,0 +1,13 @@
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\bin\Release\TimeSheet.exe
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\bin\Release\TimeSheet.pdb
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\bin\Release\TimeSheet.xml
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.AboutBox1.resources
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.Form1.resources
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.Form2.resources
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.Form3.resources
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.Resources.resources
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.vbproj.GenerateResource.cache
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.vbproj.CoreCompileInputs.cache
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.exe
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.xml
+C:\Users\vc98430\source\repos\TimeSheet\TimeSheet\obj\Release\TimeSheet.pdb
